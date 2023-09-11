@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/007/254/379/non_2x/web-3-0-word-concepts-turquoise-banner-low-code-platform-infographics-with-linear-icons-on-background-isolated-typography-color-illustration-with-text-arial-black-font-used-vector.jpg)
+![MasterHead](https://static.vecteezy.com/system/resources/previews/007/254/379/non_2x/web-3-0-word-concepts-turquoise-banner-low-code-platform-infographics-with-linear-icons-on-background-isolated-typography-color-illustration-with-text-arial-black-font-used-vector.jpg)
 <h1 align="center">Hi 👋, I'm Vasi Kazakov</h1>
 <h3 align="center">I'm a computer science student studying at the University of Hertfordshire in the UK, and I'm always busy with various projects while learning new programming skills every day. I also take part in coding competitions and hackathons, and I really enjoy working on Dapps and Web3 projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1">
